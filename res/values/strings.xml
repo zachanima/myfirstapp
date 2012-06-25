@@ -4,5 +4,8 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="button_exit">Exit</string>
+    <string name="ancient_coordinates_database">Ancient Coordinates Database</string>
+    <string name="quantity">Quantity</string>
+    <string name="neural_network_analyzer">Neural Network Analyzer</string>
 
 </resources>
