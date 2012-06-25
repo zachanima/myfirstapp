@@ -26,8 +26,6 @@
             android:hint="@string/quantity"
             android:inputType="number" >
 
-            <requestFocus />
-
         </EditText>
 
         <TextView
