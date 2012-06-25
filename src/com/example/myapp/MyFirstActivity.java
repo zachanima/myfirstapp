@@ -24,4 +24,9 @@ public class MyFirstActivity extends Activity {
     intent.putExtra(EXTRA_MESSAGE, message);
     startActivity(intent);
   }
+  
+  /** Called when the user selects the Exit button */
+  public void exit(View view) {
+    finish();
+  }
 }
