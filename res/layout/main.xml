@@ -23,6 +23,7 @@
             android:id="@+id/edit_ancient_coordinates_database"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
             android:hint="@string/quantity"
             android:inputType="number" >
 
@@ -32,7 +33,6 @@
             android:id="@+id/text_ancient_coordinates_database"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingLeft="8dp"
             android:text="@string/ancient_coordinates_database" />
 
     </LinearLayout>
@@ -45,6 +45,7 @@
             android:id="@+id/editText1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
             android:hint="@string/quantity"
             android:inputType="number" />
 
@@ -52,7 +53,6 @@
             android:id="@+id/text_neural_network_analyzer"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:paddingLeft="8dp"
             android:text="@string/neural_network_analyzer" />
 
     </LinearLayout>
